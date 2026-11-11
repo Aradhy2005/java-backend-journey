@@ -1,22 +1,19 @@
-<!-- ================= HEADER ================= -->
+# ☕ Java Backend Journey
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:064E3B,100:10B981&height=220&section=header&text=JAVA%20BACKEND%20JOURNEY&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Learn%20%7C%20Build%20%7C%20Document%20%7C%20Repeat&descAlignY=60&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:064E3B,100:10B981&height=200&section=header&text=JAVA%20BACKEND%20JOURNEY&fontSize=36&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Learn%20%7C%20Build%20%7C%20Document%20%7C%20Repeat&descAlignY=62&descSize=15" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=34D399&center=true&vCenter=true&width=650&lines=Exploring+Java+Backend+Development;Understanding+How+Backend+Systems+Work;Learning+Maven%2C+JDBC+%26+Spring+Boot;Building+Real+World+Backend+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=34D399&center=true&vCenter=true&width=700&lines=Exploring+Java+Backend+Engineering;Understanding+Database+Connectivity;Building+with+Java+%26+PostgreSQL;Turning+Concepts+into+Practical+Code" />
 
 <br/>
 
-<p>
-  <img src="https://img.shields.io/badge/Focus-Java%20Backend-16A34A?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Learning-Telusko%20Udemy-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Active-10B981?style=for-the-badge" />
-</p>
+<img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Build%20Tool-Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+<img src="https://img.shields.io/badge/Status-Active-16A34A?style=for-the-badge"/>
 
-<p>
-  <b>A structured journey from Java fundamentals to building production-ready backend applications.</b>
-</p>
+**A hands-on journey into Java Backend Development, database engineering and building real-world applications.**
 
 </div>
 
@@ -24,20 +21,20 @@
 
 ## `$ whoami`
 
-I'm documenting my journey of learning **Java Backend Development**, exploring how backend applications are designed, developed, connected to databases, and deployed.
+Welcome to my Java Backend Journey!
 
-This repository serves as my personal technical handbook — containing detailed notes, practical code implementations, concepts, experiments, and learning progress.
+This repository documents my progress in understanding how backend applications work, how Java communicates with databases, and how different technologies come together to build reliable software systems.
 
-Rather than simply completing a course, my goal is to understand the engineering behind backend systems and develop the ability to build them independently.
+It serves as my personal technical handbook, containing:
 
-### 🎯 The Mission
+- Structured technical documentation.
+- Practical Java implementations.
+- Database connectivity examples.
+- Architecture and workflow diagrams.
+- Important concepts and interview preparation.
+- Hands-on experiments and projects.
 
-- Strengthen Java programming fundamentals.
-- Understand backend architecture and application workflows.
-- Learn database connectivity and data management.
-- Explore the Spring ecosystem and Spring Boot.
-- Build practical backend applications.
-- Develop production-oriented engineering skills.
+**The objective is not just to learn technologies, but to understand and implement them.**
 
 ---
 
@@ -47,66 +44,63 @@ Rather than simply completing a course, my goal is to understand the engineering
 
 ### Currently Exploring
 
-<img src="https://skillicons.dev/icons?i=java,maven,mysql,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,maven,postgresql,git,github,vscode&theme=dark"/>
 
-### Future Learning Path
+### Exploring Next
 
-<img src="https://skillicons.dev/icons?i=spring,hibernate,postgres,postman,docker,aws&theme=dark" />
+<img src="https://skillicons.dev/icons?i=spring,hibernate,mysql,postman,docker,aws&theme=dark"/>
 
 </div>
 
-<p align="center">
-  <i>Technologies are added as I progress through the learning journey.</i>
-</p>
-
 ---
 
-## 📚 Learning Roadmap
+## 🗺️ Learning Roadmap
 
-My learning follows the sequence of my course and practical exploration rather than a rigid predefined syllabus.
-
-| # | Topic | Status |
+| # | Technology / Concept | Status |
 |:---:|---|:---:|
-| 01 | Apache Maven | 🟡 In Progress |
-| 02 | JDBC | 🔄 Currently Learning |
-| 03 | Servlets & JSP | ⏳ Upcoming |
-| 04 | Advanced Java | ⏳ Upcoming |
-| 05 | Spring Framework | ⏳ Upcoming |
-| 06 | Spring Boot | ⏳ Upcoming |
-| 07 | REST API Development | ⏳ Upcoming |
-| 08 | Hibernate & Spring Data JPA | ⏳ Upcoming |
-| 09 | Spring Security | ⏳ Upcoming |
-| 10 | Testing & Deployment | ⏳ Upcoming |
-| 11 | Backend Projects | ⏳ Upcoming |
+| 01 | Apache Maven | ✅ Completed |
+| 02 | JDBC – Java Database Connectivity | ✅ Completed |
+| 03 | Hibernate & ORM | 🔄 Next |
+| 04 | Servlets & JSP | ⏳ Upcoming |
+| 05 | Advanced Java | ⏳ Upcoming |
+| 06 | Spring Framework | ⏳ Upcoming |
+| 07 | Spring Boot | ⏳ Upcoming |
+| 08 | REST API Development | ⏳ Upcoming |
+| 09 | Spring Data JPA | ⏳ Upcoming |
+| 10 | Spring Security | ⏳ Upcoming |
+| 11 | Testing & Deployment | ⏳ Upcoming |
+| 12 | Backend Projects | ⏳ Upcoming |
 
-*The roadmap is flexible and will evolve with the course and additional practical learning.*
+*The roadmap evolves as new concepts and practical implementations are explored.*
 
 ---
 
-## 📖 Documentation & Learning Notes
+## 📚 Technical Documentation
 
-Every completed topic is documented with explanations, examples, and practical implementations wherever applicable.
+Every topic is documented with explanations, architecture diagrams, examples, and interview questions.
 
-| Topic | Documentation | Code |
+| Topic | Documentation | Practical Code |
 |---|---|---|
-| Maven | [Introduction](notes/01-maven.md) | [Examples](code/maven/) |
-| JDBC | Coming Soon | [Examples](code/jdbc/) |
+| Apache Maven | [Maven Notes](notes/01-maven.md) | [Maven Examples](code/maven/) |
+| JDBC | [JDBC Notes](notes/02-jdbc.md) | [JDBC Implementation](code/jdbc/) |
+| Hibernate | Upcoming | Upcoming |
 
-### 📝 Documentation Includes
+### Documentation Standards
 
-- Conceptual explanations and fundamentals
-- Why a technology or concept is needed
-- Internal working and architecture
-- Important terminology
-- Java, SQL and configuration examples
-- Practical implementations
-- Advantages, limitations and use cases
-- Common interview questions
-- Quick revision notes
+Each major topic focuses on:
+
+- Fundamentals and core concepts.
+- Why the technology is needed.
+- Internal working and architecture.
+- Important classes, interfaces and components.
+- Code examples and practical implementation.
+- Advantages, limitations and use cases.
+- Common interview questions.
+- Quick revision notes.
 
 ---
 
-## 📂 Repository Structure
+## 🏗️ Repository Architecture
 
 ```text
 java-backend-journey/
@@ -121,32 +115,32 @@ java-backend-journey/
 ├── code/
 │   ├── maven/
 │   ├── jdbc/
+│   │   ├── README.md
+│   │   └── JdbcDemo.java
 │   └── ...
 │
 └── progress.md
 ```
 
-**Repository organization:**
-
-| Directory | Purpose |
+| Directory | Description |
 |---|---|
 | `notes/` | Detailed technical documentation |
 | `code/` | Practical Java implementations |
-| `progress.md` | Learning progress and completed topics |
+| `progress.md` | Learning and implementation tracker |
 
 ---
 
-## 🔄 My Learning Workflow
+## 🔄 Development Workflow
 
 <div align="center">
 
 ```mermaid
 flowchart LR
-    A["📚 Learn"] --> B["🧠 Understand"]
+    A["📖 Learn"] --> B["🧠 Understand"]
     B --> C["📝 Document"]
     C --> D["💻 Implement"]
-    D --> E["🔍 Revise"]
-    E --> F["🚀 Build"]
+    D --> E["🧪 Test"]
+    E --> F["🚀 Improve"]
     F --> A
 
     classDef step fill:#064E3B,stroke:#10B981,color:#FFFFFF
@@ -155,49 +149,71 @@ flowchart LR
 
 </div>
 
-I believe that understanding a concept is only the beginning. The real learning happens when I can implement it, debug it, explain it, and use it to solve actual problems.
+My approach is simple:
+
+**Understand the concept → Write the implementation → Test it → Document the learning → Improve it.**
 
 ---
 
-## 📈 Learning Progress
+## 📊 Current Progress
 
-**Current focus:** Java Database Connectivity (JDBC)
+<details>
+<summary><b>View completed milestones</b></summary>
 
-**Completed:** Maven Introduction
+### Milestone 01 — Maven
 
-**Learning source:** Telusko — Udemy Java Course
+- [x] Introduction to Apache Maven
+- [x] Understanding dependency management
+- [x] Understanding Maven repositories
+- [x] Maven fundamentals documentation
 
-For detailed updates, check the [Learning Progress Tracker](progress.md).
+### Milestone 02 — JDBC
+
+- [x] JDBC introduction
+- [x] PostgreSQL setup
+- [x] JDBC architecture
+- [x] Database connectivity
+- [x] Query execution
+- [x] Fetching records
+- [x] CRUD operations
+- [x] Statement and PreparedStatement
+- [x] Practical JDBC implementation
+
+</details>
+
+**Current Focus:** Hibernate & Object Relational Mapping (ORM).
+
+See the [detailed progress tracker](progress.md).
 
 ---
 
-## 🌱 What's Next?
+## 🎯 What's Next?
 
-- [ ] Complete JDBC fundamentals.
-- [ ] Perform database operations using Java.
-- [ ] Understand how Java applications communicate with databases.
+- [ ] Understand Hibernate and ORM fundamentals.
+- [ ] Explore entity mapping and database interaction.
+- [ ] Understand how Hibernate simplifies JDBC operations.
 - [ ] Explore the Spring ecosystem.
-- [ ] Develop backend applications using Spring Boot.
-- [ ] Build and deploy independent backend projects.
+- [ ] Build independent backend applications.
+- [ ] Develop and deploy production-oriented projects.
 
 ---
 
-## 🤝 Connect & Follow the Journey
+## 🤝 Connect
 
 <div align="center">
 
-<a href="https://github.com/Aradhy2005">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/aradhy-bajpai-897241283/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-**Learning in public. Building with purpose. Growing one concept at a time.**
+**Building knowledge one concept and one implementation at a time.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,50:064E3B,100:0F172A&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,50:064E3B,100:020617&height=120&section=footer" width="100%"/>
 
 </div>
