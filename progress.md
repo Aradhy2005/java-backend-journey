@@ -1,14 +1,22 @@
-# Learning Progress
+## Completed Topics
 
+- [x] Apache Maven
+- [x] JDBC — Java Database Connectivity
+- [x] Hibernate — ORM Framework
 
-## Completed
-- [x] Maven Introduction
+## Currently Exploring
 
-## Currently Learning
-- [ ] JDBC
+- [ ] Next Java Backend Topic
 
-## Practical Implementations
-- None yet
+## Hibernate Concepts Covered
 
-## Last Updated
-10 November 2026
+- [x] Hibernate architecture and setup
+- [x] Saving and fetching entities
+- [x] Updating and deleting objects
+- [x] Entity and column mapping
+- [x] Embeddable objects
+- [x] Entity relationships
+- [x] Eager and Lazy Fetching
+- [x] First-Level and Second-Level Cache
+- [x] HQL
+- [x] Ehcache
