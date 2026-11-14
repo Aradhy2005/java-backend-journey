@@ -3,20 +3,16 @@
 - [x] Apache Maven
 - [x] JDBC — Java Database Connectivity
 - [x] Hibernate — ORM Framework
+- [x] Spring Framework — Getting Started
 
-## Currently Exploring
+## Spring Concepts Covered
 
-- [ ] Next Java Backend Topic
-
-## Hibernate Concepts Covered
-
-- [x] Hibernate architecture and setup
-- [x] Saving and fetching entities
-- [x] Updating and deleting objects
-- [x] Entity and column mapping
-- [x] Embeddable objects
-- [x] Entity relationships
-- [x] Eager and Lazy Fetching
-- [x] First-Level and Second-Level Cache
-- [x] HQL
-- [x] Ehcache
+- [x] Introduction to Spring
+- [x] Spring Documentation
+- [x] Prerequisites and IDE Setup
+- [x] Inversion of Control (IoC)
+- [x] Dependency Injection (DI)
+- [x] Spring vs Spring Boot
+- [x] First Spring Boot Application
+- [x] Dependency Injection Using Spring Boot
+- [x] Autowiring in Spring Boot
