@@ -4,15 +4,20 @@
 - [x] JDBC — Java Database Connectivity
 - [x] Hibernate — ORM Framework
 - [x] Spring Framework — Getting Started
+- [x] Exploring Spring Framework
 
-## Spring Concepts Covered
+## Exploring Spring Framework
 
-- [x] Introduction to Spring
-- [x] Spring Documentation
-- [x] Prerequisites and IDE Setup
-- [x] Inversion of Control (IoC)
-- [x] Dependency Injection (DI)
-- [x] Spring vs Spring Boot
-- [x] First Spring Boot Application
-- [x] Dependency Injection Using Spring Boot
-- [x] Autowiring in Spring Boot
+- [x] Spring First Project
+- [x] Spring Bean XML Configuration
+- [x] Object Creation
+- [x] Bean Scopes
+- [x] Setter Injection
+- [x] Ref Attribute
+- [x] Constructor Injection
+- [x] Creating Interfaces
+- [x] Autowiring
+- [x] Primary Bean
+- [x] Lazy Initialization
+- [x] getBean() by Type
+- [x] Inner Bean
